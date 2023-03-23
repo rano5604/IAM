@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T18:40:07 BDT" name="Default suite" finished-at="2023-03-15T18:40:09 BDT" duration-ms="2032">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T18:40:07 BDT" name="Default test" finished-at="2023-03-15T18:40:09 BDT" duration-ms="2032">
+      <class name="regressionTest.ServiceTestRegression">
+        <test-method signature="LoginTest()[pri:0, instance:regressionTest.ServiceTestRegression@69e1dd28]" started-at="2023-03-15T18:40:07 BDT" name="LoginTest" finished-at="2023-03-15T18:40:09 BDT" duration-ms="1923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="getAPI()[pri:0, instance:regressionTest.ServiceTestRegression@69e1dd28]" started-at="2023-03-15T18:40:09 BDT" name="getAPI" finished-at="2023-03-15T18:40:09 BDT" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPI -->
+      </class> <!-- regressionTest.ServiceTestRegression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
